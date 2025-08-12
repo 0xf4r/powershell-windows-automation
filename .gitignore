@@ -1,0 +1,5 @@
+*.ps1xml
+*.ps1~
+*.log
+.DS_Store
+*.tmp
